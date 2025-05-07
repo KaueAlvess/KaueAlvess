@@ -43,9 +43,4 @@ Sou um estudante de Desenvolvimento de Sistemas.
 </section>
 
 
-<div style="perspective: 1000px; width: 100%; height: 200px;">
-  <div style="width: 200px; height: 200px; background: #FF6347; transform-style: preserve-3d; transform: rotateY(30deg);">
-    <p style="text-align: center; color: white; line-height: 200px; font-size: 18px;">Produto 3D</p>
-  </div>
-</div>
 
