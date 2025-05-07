@@ -43,16 +43,9 @@ Sou um estudante de Desenvolvimento de Sistemas.
 </section>
 
 
-<!-- Só funcionará em plataformas de e-mail que suportam Lottie -->
-<script src="https://unpkg.com/lottie-web"></script>
-<div id="lottie"></div>
-<script>
-  var animation = lottie.loadAnimation({
-    container: document.getElementById('lottie'),
-    renderer: 'svg',
-    loop: true,
-    autoplay: true, 
-    path: 'https://www.exemplo.com/animacao-3d.json' // URL da animação Lottie
-  });
-</script>
+<div style="perspective: 1000px; width: 100%; height: 200px;">
+  <div style="width: 200px; height: 200px; background: #FF6347; transform-style: preserve-3d; transform: rotateY(30deg);">
+    <p style="text-align: center; color: white; line-height: 200px; font-size: 18px;">Produto 3D</p>
+  </div>
+</div>
 
