@@ -10,7 +10,7 @@ Sou apaixonado por tecnologia, desenvolvimento de software e inovação.
 
 ## 📊 GitHub Stats
 
-![KaueAlvess GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
+![KaueAlvess GitHub stats](https://github-readme-stats.vercel.app/api?username=KaueAlvess&show_icons=true&theme=dracula)
 
 🔗 Links para redes sociais:
 
