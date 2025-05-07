@@ -28,11 +28,10 @@ Sou um estudante de Desenvolvimento de Sistemas.
 <a href="https://www.instagram.com/kayrysht/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" alt="Instagram"/>
 </a>
-<br>
-##💌 Entre em Contato por E-mail
+
 
 <section>
-  <h3 style="font-size: 24px; color: #333; margin-bottom: 10px;"></h3>
+  <h3 style="font-size: 24px; color: #333; margin-bottom: 10px;">💌 Entre em Contato por E-mail</h3>
   <p style="font-size: 18px; color: #555;">
     📫 Me escreva em: 
     <a href="kayyozzy@gmal.com" style="color: #007BFF; font-weight: bold; text-decoration: none;">kayyozzy@gmail.com</a>
