@@ -30,9 +30,17 @@ Sou um estudante de Desenvolvimento de Sistemas.
 </a>
 
 ##💌 Entre em Contato por E-mail
-<a href="kaue.rocha22@etec.sp.gov.br" target="_blank"> <img src="https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail Badge" /> </a> <br>
+<section>
+  <h3 style="font-size: 24px; color: #333; margin-bottom: 10px;"></h3>
+  <p style="font-size: 18px; color: #555;">
+    📫 Me escreva em: 
+    <a href="kayyozzy@gmal.com" style="color: #007BFF; font-weight: bold; text-decoration: none;">kayyozzy@gmail.com</a>
+  </p>
+  <br>
+  <p style="font-size: 16px; color: #555;">
+    Se tiver alguma ideia, dúvida ou quiser colaborar em algum projeto, estou sempre aberto a boas conversas!<br>
+    🚀✨<br>
+    Não hesite em mandar um "oi" – respondo rapidinho! 😉
+  </p>
+</section>
 
-##📥 Quer conversar?
-Se tiver alguma ideia legal 💡, proposta de projeto, dúvida técnica ou só quiser trocar uma ideia, me manda um e-mail!
-
-##➡️ Clique no botão acima para iniciar uma conversa direto comigo!
