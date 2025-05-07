@@ -38,9 +38,7 @@ Sou um estudante de Desenvolvimento de Sistemas.
   </p>
   <br>
   <p style="font-size: 16px; color: #555;">
-    Se tiver alguma ideia, dúvida ou quiser colaborar em algum projeto, estou sempre aberto a boas conversas!<br>
-    🚀✨<br>
-    Não hesite em mandar um "oi" – respondo rapidinho! 😉
+    Se tiver alguma ideia, dúvida ou quiser colaborar em algum projeto, estou sempre aberto a boas conversas!🚀✨
   </p>
 </section>
 
