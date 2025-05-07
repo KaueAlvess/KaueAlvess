@@ -17,7 +17,7 @@ Sou um estudante de Desenvolvimento de Sistemas.
 
 ## 🌐 Me encontre por aqui
 
-<a href="[https://www.linkedin.com/in/kaue-alves-696a1b34b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]" target="_blank">
+<a href="https://www.linkedin.com/in/kaue-alves-696a1b34b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
 </a>
 
