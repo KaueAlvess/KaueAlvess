@@ -16,5 +16,5 @@ Sou um estudante de Desenvolvimento de Sistemas.
 ![KaueAlvess GitHub stats](https://github-readme-stats.vercel.app/api?username=KaueAlvess&show_icons=true&theme=dracula)
 
 🔗 Links para redes sociais:
-![INSTAGRAM]()
+![INSTAGRAM](https://www.instagram.com/accounts/login/?next=%2Fkayrysht%2F&source=omni_redirect)
 
