@@ -15,6 +15,17 @@ Sou um estudante de Desenvolvimento de Sistemas.
 
 ![KaueAlvess GitHub stats](https://github-readme-stats.vercel.app/api?username=KaueAlvess&show_icons=true&theme=dracula)
 
-🔗 Links para redes sociais:
-![INSTAGRAM](https://www.instagram.com/accounts/login/?next=%2Fkayrysht%2F&source=omni_redirect)
+## 🌐 Me encontre por aqui
 
+<a href="https://www.linkedin.com/in/seuusuario" target="_blank">
+  <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="40" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/KaueAlvess" target="_blank">
+  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="40" alt="GitHub"/>
+</a>
+<a href="https://www.instagram.com/kayrysht" target="_blank">
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="40" alt="Instagram"/>
+</a>
+<a href="mailto:kayyozzy@gmail.com" target="_blank">
+  <img src="https://media.giphy.com/media/8rFzFv3wZC1La/giphy.gif" width="40" alt="Email"/>
+</a>
