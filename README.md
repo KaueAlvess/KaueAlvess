@@ -1,12 +1,15 @@
 # Olá! 👋
 
-Sou apaixonado por tecnologia, desenvolvimento de software e inovação.
+Sou um estudante de Desenvolvimento de Sistemas.
 
 ## 🚀 Tecnologias que uso
 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=fff)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)
+
 
 ## 📊 GitHub Stats
 
