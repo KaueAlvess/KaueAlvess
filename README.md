@@ -42,3 +42,17 @@ Sou um estudante de Desenvolvimento de Sistemas.
   </p>
 </section>
 
+
+<!-- Só funcionará em plataformas de e-mail que suportam Lottie -->
+<script src="https://unpkg.com/lottie-web"></script>
+<div id="lottie"></div>
+<script>
+  var animation = lottie.loadAnimation({
+    container: document.getElementById('lottie'),
+    renderer: 'svg',
+    loop: true,
+    autoplay: true, 
+    path: 'https://www.exemplo.com/animacao-3d.json' // URL da animação Lottie
+  });
+</script>
+
