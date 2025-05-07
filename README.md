@@ -18,12 +18,12 @@ Sou um estudante de Desenvolvimento de Sistemas.
 ## 🌐 Me encontre por aqui
 
 <a href="https://www.linkedin.com/in/kaue-alves-696a1b34b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-  <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="40" alt="LinkedIn"/>
+  <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="80" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/KaueAlvess" target="_blank">
-  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="40" alt="GitHub"/>
+  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="80" alt="GitHub"/>
 </a>
 <a href="https://www.instagram.com/kayrysht" target="_blank">
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="40" alt="Instagram"/>
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="80" alt="Instagram"/>
 </a>
 
