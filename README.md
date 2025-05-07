@@ -29,5 +29,11 @@ Sou um estudante de Desenvolvimento de Sistemas.
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" alt="Instagram"/>
 </a>
 
-💌 Email
-<a href="kayyozzy@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <br>
+##💌 Entre em Contato por E-mail
+<a href="kayyozzy@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail Badge" /> </a> <br>
+
+##📥 Quer conversar?
+Se tiver alguma ideia legal 💡, proposta de projeto 🚀, dúvida técnica 🤔 ou só quiser trocar uma ideia, me manda um e-mail!
+Gosto de conhecer gente nova e criar coisas incríveis juntos 😄
+
+##➡️ Clique no botão acima para iniciar uma conversa direto comigo!
