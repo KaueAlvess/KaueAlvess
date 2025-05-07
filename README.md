@@ -28,3 +28,9 @@ Sou um estudante de Desenvolvimento de Sistemas.
 <a href="https://www.instagram.com/kayrysht/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" alt="Instagram"/>
 </a>
+
+<a href="kayyozzy@gmail.com" style="text-decoration: none;">
+  <span style="display: inline-block; background-color: #d44638; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold; font-family: sans-serif;">
+    📧 Enviar Email
+  </span>
+</a>
