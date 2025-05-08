@@ -1,4 +1,4 @@
-# Hello Word! 👋
+# Hello World! 👋
  
 Sou um estudante de Desenvolvimento de Sistemas.
 
