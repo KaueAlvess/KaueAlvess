@@ -25,7 +25,7 @@ Sou um estudante de Desenvolvimento de Sistemas.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
 </a>
 
-<a href="https://www.instagram.com/kayrysht/" target="_blank">
+<a href="https://www.instagram.com/kayry011/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" alt="Instagram"/>
 </a>
 
