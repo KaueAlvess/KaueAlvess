@@ -1,46 +1,66 @@
-#  👋
- 
-Sou um estudante de Desenvolvimento de Sistemas.
+<div align="center" >
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745F5&height=68&section=header"/>
 
-## 🚀 Tecnologias que uso
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&height=20&lines=Hello%2C+i'm+Andr%C3%A9+(aka+Andras);Fullstack+Developer;Ethical+Hacker+%26+Pentester;FGC+Esports+Caster)](https://git.io/typing-svg)
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)
+  
+  <img height="156rem" src="https://github-readme-stats.vercel.app/api?username=andremelchior&show_icons=true&count_private=true&hide_border=true&title_color=9745f5&icon_color=9745F5&text_color=c9d1d9&bg_color=0d1117" alt="André Melchior github stats"/> 
+  &nbsp;&nbsp;&nbsp;<img height="201rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremelchior&layout=compact&hide_border=true&hide=html,css,svg,c,markdown&title_color=9745f5&text_color=FFFFFF&bg_color=0d1117&langs_count=10" />
 
+  
+</div>
 
-## 📊 GitHub Stats
+  <div align="justify">
 
-![KaueAlvess GitHub stats](https://github-readme-stats.vercel.app/api?username=KaueAlvess&show_icons=true&theme=dracula)
+  #
 
-## 🌐 Me encontre por aqui
+  Estudante de superior em **Desenvolvimento de Software Multiplataforma** na Fatec Luigi Papaiz e cursando técnico em **Desenvolvimento de Sistemas** na Etec JK.
+  Tenho maior foco em desenvolvimento **.NET** com **C#**, **ASP.NET** e **Entity Framework** para aplicações web e desktop. Possuo habilidades web em **HTML5**, **CSS3**, **Sass**, **JavaScript**, **PHP** e **React**, conhecimentos em **React Native** com **TypeScript** e **Expo** para mobile.
+  #
+  
+  </div>
 
-<a href="https://www.linkedin.com/in/kaue-alves-696a1b34b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
-</a>
+<div>
+  
+  #### Frontend Skills:
 
-<a href="https://github.com/KaueAlvess" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-</a>
+  &nbsp;
+  <img align="center" alt="HTML5" height="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  &nbsp;<img align="center" alt="CSS3" height="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  &nbsp;<img align="center" alt="JS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  &nbsp;&nbsp;<img align="center" alt="TS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-original.svg">
+  &nbsp;&nbsp;<img align="center" alt="Sass" height="46" src="https://raw.githubusercontent.com/andremelchior/Langs-Icons/d156b9fea516747f053fbf092867898d26bc88f5/sass/sass.svg">
+  &nbsp;&nbsp;<img align="center" alt="Less" height="46" src="https://raw.githubusercontent.com/andremelchior/Langs-Icons/d156b9fea516747f053fbf092867898d26bc88f5/less/less.svg">
+  &nbsp;&nbsp;<img align="center" alt="Bootstrap" height="46" src="https://github.com/user-attachments/assets/369cdfeb-3217-4249-9724-f343320fae6b">
+  &nbsp;&nbsp;<img align="center" alt="React" height="47" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg">
+  &nbsp;&nbsp;<img align="center" alt="jQuery" height="46" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JQuery.svg"><br>
 
-<a href="https://www.instagram.com/kayry011/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" alt="Instagram"/>
-</a>
+  #### Backend Skills:
 
+  &nbsp;
+  <img align="center" alt="PHP" height="45" src="https://raw.githubusercontent.com/andremelchior/Langs-Icons/d156b9fea516747f053fbf092867898d26bc88f5/php/php.svg">&nbsp;&nbsp;
+  <img align="center" alt="dotNET" height="44" src="https://github.com/user-attachments/assets/cdedfe30-f2d4-4853-b615-5d59d8ac8835">&nbsp;
+  <img align="center" alt="CSharp" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="CPlusPlus" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="C" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Python" height="58" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg">&nbsp;
+  <img align="center" alt="MySQL" height="50" src="https://images.sftcdn.net/images/t_app-icon-m/p/917c77e8-96d1-11e6-8453-00163ed833e7/3780880766/mysql-com-icon.png">
 
-<section>
-  <h3 style="font-size: 24px; color: #333; margin-bottom: 10px;">💌 Entre em Contato por E-mail</h3>
-  <p style="font-size: 18px; color: #555;">
-    📫 Me escreva em: 
-    <a href="kayyozzy@gmal.com" style="color: #007BFF; font-weight: bold; text-decoration: none;">kayyozzy@gmail.com</a>
-  </p>
-  <br>
-  <p style="font-size: 16px; color: #555;">
-    Se tiver alguma ideia, dúvida ou quiser colaborar em algum projeto, estou sempre aberto a boas conversas!🚀✨
-  </p>
-</section>
+  #### Mobile Skills:
+  
+  <img alt="React Native" height="58" align="center" src="https://raw.githubusercontent.com/andremelchior/Langs-Icons/265bd1eca4c71eba894ae500e162b7e172f18676/react-native-rocket/react_native-plain.svg">
+  <img alt="Expo" height="50" align="center" src="https://cdn.creazilla.com/icons/3256562/file-type-expo-icon-md.png">
+  <img align="center" alt="Java" height="53" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg">
+  &nbsp;<img align="center" alt="Kotlin" height="54" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Android Studio" height="52" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/androidstudio/androidstudio-original.svg">
 
-
-
+#
+<div align="center">
+<br>
+  
+  <a href="https://www.youtube.com/@andrasbh" target="_blank"><img height="27" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ <a href="https://www.twitch.tv/andrasbh" target="_blank"><img height="27" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/andrasbh" target="_blank"><img height="27" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andremelchior/" target="_blank"><img height="27" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
