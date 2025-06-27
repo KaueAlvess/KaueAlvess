@@ -2,7 +2,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745F5&height=68&section=header"/>
 
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&height=20&lines=Hello%2C+i'm+Kaue%C3%A9+(Kaue+Alvess);Fullstack+Developer;Ethical+Hacker+%26+Pentester;FGC+Esports+Caster)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&height=20&lines=Hello%2C+i'm+Kaue+(Kaue+Alvess);Fullstack+Developer;Ethical+Hacker+%26+Pentester;FGC+Esports+Caster)](https://git.io/typing-svg)
 
   
   <img height="156rem" src="https://github-readme-stats.vercel.app/api?username=andremelchior&show_icons=true&count_private=true&hide_border=true&title_color=9745f5&icon_color=9745F5&text_color=c9d1d9&bg_color=0d1117" alt="André Melchior github stats"/> 
